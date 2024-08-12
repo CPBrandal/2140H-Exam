@@ -26,6 +26,7 @@ USAGE:
 
 - run d1_test_client for tests on d1
     d1_test_client has two parameters: servername in form of dotted decimal or hostname and server port, which must be > 1024
+        example -> ./d1_test_client localhost 2000
 
 - run d2_test_client for test on d2
     d2_test_client has three parameters: servername, server port > 1024 and id which must be > 1000
